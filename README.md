@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ria Pahujani</h1>
+<h1 align="center">Hi 🙋🏻‍♀️, I'm Ria Pahujani</h1>
 <h3 align="center">A passionate data science learner from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif">
 
 - 🔭 I’m currently working on **food calorie counter**
 
-- 🌱 I’m currently learning **Pytorch, DSA with C++, Neural Networks**
+- 👩🏻‍💻 I’m currently learning **Pytorch, DSA with C++, Neural Networks**
 
 - 💬 Ask me about **Python, Power BI Visualization**
 
@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I am a classical(Kathak) dancer**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me 🔗:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ria-pahujani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ria-pahujani" height="30" width="40" /></a>
 </p>
