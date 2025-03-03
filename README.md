@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif">
 
 
-- 🔭 I’m currently working on **food calorie counter**
+- 🔭 I’m currently working in **KPMG** as **Academic Trainee**.
 
 - 👩🏻‍💻 I’m currently learning **Pytorch, DSA with C++, Neural Networks**
 
