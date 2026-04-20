@@ -1,28 +1,85 @@
-<h1 align="center">Hi 🙋🏻‍♀️, I'm Ria Pahujani</h1>
-<h3 align="center">A passionate data science learner from India</h3>
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif">
+# Hi, I'm Ria Pahujani 👋
 
+🚀 Analyst @ KPMG | Generative AI | LLM Systems | AI Security
 
-- 🔭 I’m currently working in **KPMG** as **Academic Trainee**.
+I work on building **production-grade AI systems** with a focus on Generative AI, system design, and secure AI deployment.
+My work sits at the intersection of **LLMs, backend engineering, and AI governance**.
 
-- 👩🏻‍💻 I’m currently learning **Pytorch, DSA with C++, Neural Networks**
+---
 
-- 💬 Ask me about **Python, Power BI Visualization**
+## 🧠 What I Do
 
-- 📫 How to reach me **ria.anand777@gmail.com**
+* 🤖 Build LLM-powered applications (RAG, Text-to-SQL, Agentic AI)
+* 🔐 Design secure AI systems (OWASP Top 10 for LLMs, prompt injection defense)
+* ⚙️ Develop scalable microservices using FastAPI & modular architectures
+* 📊 Implement LLM evaluation & observability (DeepEval, LangSmith)
+* 🧩 Work on real-world AI use cases in enterprise environments
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/14jrsmG1VZCWHdbiA86XhjZqrrpIUSVf5?usp=sharing](https://drive.google.com/drive/folders/14jrsmG1VZCWHdbiA86XhjZqrrpIUSVf5?usp=sharing)
+---
 
-- ⚡ Fun fact **I am a classical(Kathak) dancer**
+## 🔬 Current Focus
 
-<h3 align="left">Connect with me 🔗:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ria-pahujani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ria-pahujani" height="30" width="40" /></a>
-</p>
+* 🛡️ RAG pipelines with malicious content detection & guardrails
+* 🔍 LLM vulnerability analysis & mitigation strategies
+* 🧠 Agentic AI systems with multi-service orchestration
+* 📈 Evaluation pipelines for measuring LLM performance & reliability
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ria-pahujani77&show_icons=true&locale=en" alt="ria-pahujani77" /></p> 
+## 🚀 Featured Work
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ria-pahujani77&" alt="ria-pahujani77" /></p>
+### 🔹 LLM Vulnerability & Mitigation Framework
+
+* Simulated real-world LLM attacks (prompt injection, data leakage, jailbreaks)
+* Designed and implemented mitigation strategies
+* Aligned with OWASP Top 10 for LLM Applications
+
+### 🔹 Vanna AI – Text-to-SQL System
+
+* Built intelligent querying over structured databases
+* Integrated SQLite with Flask API for natural language querying
+* Improved query accuracy using metadata-driven training
+
+### 🔹 GitHub Commit Analyzer (LLM-Powered)
+
+* Summarizes commits using LLMs (GroqCloud)
+* Groups commits based on push events (mirroring GitHub behavior)
+* Enhances developer productivity & code understanding
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**
+Python, SQL
+
+**AI / LLMs:**
+OpenAI, Gemini, Vanna AI, DSPy
+
+**Frameworks & Tools:**
+FastAPI, Flask, Streamlit
+
+**Evaluation & Observability:**
+LangSmith, DeepEval
+
+**Core Concepts:**
+RAG, AI Security, Prompt Engineering, Microservices Architecture
+
+---
+
+## 🏗️ What Makes My Work Different
+
+* Focus on **real-world, production-oriented AI systems**
+* Strong emphasis on **AI security & responsible AI practices**
+* Experience with **end-to-end system design**, not just models
+* Ability to bridge **technical implementation + business use cases**
+
+---
+
+## 📫 Let's Connect
+
+* 💼 LinkedIn: https://www.linkedin.com/in/ria-pahujani/
+
+---
+
+⭐ *Always exploring how to make AI systems more secure, reliable, and scalable.*
